@@ -1,4 +1,4 @@
-# q2_hackathon-------1-6
+# q2_hackathon_day6
 
 # Name: Muhammad Faizan Soomro ...\
 # slot: Tuesday 2 to 5...\
